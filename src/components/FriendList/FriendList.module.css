@@ -2,17 +2,21 @@
     margin: 30px 0px 30px 0px;
     background-color: rgb(207, 144, 62);
 }
-.span {
+.false {
     width: 20px;
     height: 20px;
     border-radius: 50%;
     margin-right: 10px;
     background-color: red;
 }
-.span {
+.true {
     width: 20px;
     height: 20px;
     border-radius: 50%;
     margin-right: 10px;
     background-color: green;
+}
+.item {
+    display: flex;
+    flex-direction: row;
 }
